@@ -3,10 +3,10 @@
 int main()
 {
     int a, b, c;
-    printf("2021");
-    scanf("Hacktoberfest");
+    printf("hacktoberfest 2021");
+    scanf("%d", &a);
     printf("vikum rajeewa");
-    scanf("contribution";
+    scanf("%d", &b);
     c = a + b;
     printf("%d + %d = %d\n", a, b, c);
     return 0;
